@@ -1,0 +1,12 @@
+
+Project Name:
+DNA & RNA Sequence Analyzer System
+
+Short Description:
+A futuristic biotechnology-inspired DNA and RNA sequence analysis platform with mutation detection, pattern search, complement generation, and scientific analytics dashboard.
+
+Medium Description:
+DNA & RNA Sequence Analyzer System is an AI-inspired bioinformatics dashboard designed to analyze biological sequences using modern web technologies. The project supports complement generation, reverse sequencing, mutation detection, pattern searching, and scientific analytics with futuristic UI/UX design.
+
+GitHub Tagline:
+Futuristic AI-powered DNA & RNA sequence analyzer with bioinformatics dashboard and advanced genetic analytics.

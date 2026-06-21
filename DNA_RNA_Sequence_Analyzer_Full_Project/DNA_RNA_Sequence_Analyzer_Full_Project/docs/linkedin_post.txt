@@ -1,0 +1,2 @@
+
+Built a futuristic DNA & RNA Sequence Analyzer System with bioinformatics dashboard, analytics, and scientific visualizations using HTML, CSS, JavaScript, and Chart.js.
